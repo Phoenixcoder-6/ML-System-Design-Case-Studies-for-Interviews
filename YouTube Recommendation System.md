@@ -93,7 +93,7 @@ Fast retrieval using FAISS or ScaNN
 
 
 
-## Evaluation Metric :
+## 5. Evaluation Metric :
 
 <img width="631" height="255" alt="image" src="https://github.com/user-attachments/assets/61e64453-3eb9-440a-8be8-632eeec27cb7" />
 
