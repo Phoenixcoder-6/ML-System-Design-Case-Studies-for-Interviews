@@ -95,5 +95,19 @@ Fast retrieval using FAISS or ScaNN
 
 ## 5. Evaluation Metric :
 
+### Offline Evaluation:
+
 <img width="631" height="255" alt="image" src="https://github.com/user-attachments/assets/61e64453-3eb9-440a-8be8-632eeec27cb7" />
+
+### Online Evaluation (A/B Testing): 
+
+1. CTR uplift for new video slots
+
+2. Watch time per session when new content is shown
+
+3. Bounce rate reduction
+
+4. Cold-start latency improvements
+
+
 
