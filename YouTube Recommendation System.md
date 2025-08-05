@@ -90,3 +90,10 @@ Fast retrieval using FAISS or ScaNN
 - > Meta-learning: Predict early video performance from metadata using few-shot modeling
 
 - > Exploration mechanism: Inject promising new videos into a small % of user feeds and learn quickly via early feedback loops
+
+
+
+## Evaluation Metric :
+
+<img width="631" height="255" alt="image" src="https://github.com/user-attachments/assets/61e64453-3eb9-440a-8be8-632eeec27cb7" />
+
