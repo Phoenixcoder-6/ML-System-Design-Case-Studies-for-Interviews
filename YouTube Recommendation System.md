@@ -172,7 +172,7 @@ Purpose: Take top ~500 candidates from the retrieval step and rerank them using 
 3. May run in parallel across regional data centers for geo-distributed load.
 
 
-## Monitoring & FeedBack Loops
+## 6. Monitoring & FeedBack Loops
 
 1. Track cold-start KPIs in real time
 
@@ -189,7 +189,7 @@ Purpose: Take top ~500 candidates from the retrieval step and rerank them using 
 3. Improve creator tools to optimize thumbnails, titles based on predicted CTR
 
 
-## ✅ Strong Summary
+## 7. ✅ Strong Summary
 
 This system tackles the cold-start challenge through a hybrid ML architecture that leverages content-based embeddings, uploader priors, and personalized retrieval models. It ensures scalability to billions of videos and users, while aligning tightly with business goals like engagement, discoverability, and creator retention.
 
